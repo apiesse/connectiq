@@ -1,0 +1,5 @@
+<strings>
+    <string id="AppName">battery-widget</string>
+    <string id="BatteryLabel">battery</string>
+    <string id="BatteryCharging">charging</string>
+</strings>
