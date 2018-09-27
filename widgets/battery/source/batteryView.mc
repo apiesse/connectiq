@@ -38,10 +38,11 @@ class batteryView extends Ui.View {
 
         // set background color
         dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT);
-        dc.fillRectangle (0, 0, width, height);
+        dc.fillRectangle(0, 0, width, height);
         // set foreground color
         dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
 
+        //
         batteryLabel = strings[STR_BATTERY_LABEL];
 //      if(Sys.getSystemStats().charging)
 //          {
