@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="3" lineNum="14" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="3" lineNum="15" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="4" lineNum="19" pc="268435479" symbol="onLayout"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="4" lineNum="20" pc="268435483" symbol="onLayout"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="4" lineNum="21" pc="268435537" symbol="onLayout"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="5" lineNum="28" pc="268435592" symbol="onShow"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="6" lineNum="32" pc="268435597" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="6" lineNum="33" pc="268435601" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="6" lineNum="34" pc="268435614" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="6" lineNum="35" pc="268435627" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="6" lineNum="36" pc="268435627" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="6" lineNum="39" pc="268435627" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="6" lineNum="40" pc="268435663" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="6" lineNum="42" pc="268435689" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="6" lineNum="45" pc="268435725" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="6" lineNum="50" pc="268435744" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="6" lineNum="52" pc="268435815" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="6" lineNum="57" pc="268435916" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetView.mc" id="7" lineNum="70" pc="268435984" symbol="onHide"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetApp.mc" id="9" lineNum="5" pc="268435989" symbol="initialize"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetApp.mc" id="9" lineNum="6" pc="268435993" symbol="initialize"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetApp.mc" id="10" lineNum="10" pc="268436012" symbol="onStart"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetApp.mc" id="11" lineNum="14" pc="268436017" symbol="onStop"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetApp.mc" id="12" lineNum="18" pc="268436022" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Mirco\\eclipse-workspace\\connectiq\\widgets\\battery\\source\\batteryWidgetApp.mc" id="12" lineNum="19" pc="268436026" symbol="getInitialView"/>
+<entry filename="Rez" id="19" lineNum="22" pc="268436064" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="10" object="true" symbol="batteryWidgetApp"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="14" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="9" object="true" symbol="batteryWidgetView"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="17" symbol="AppName"/>
+<entry field="true" id="19" symbol="STR_BATTERY_CHARGING"/>
+<entry field="true" id="20" symbol="STR_MAX"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="18" symbol="STR_BATTERY_LABEL"/>
+<entry field="true" id="15" symbol="BatteryLabel"/>
+<entry field="true" id="16" symbol="BatteryCharging"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry field="true" id="21" symbol="strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435592" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268435983" name="height" stackId="3" startPc="268435601"/>
+<entry endPc="268435983" name="batteryLabel" stackId="4" startPc="268435601"/>
+<entry endPc="268435983" name="batteryPercentage" stackId="5" startPc="268435601"/>
+<entry endPc="268435983" name="width" stackId="2" startPc="268435601"/>
+<entry endPc="268435984" name="dc" stackId="1" startPc="268435597"/>
+<entry endPc="268436017" name="state" stackId="1" startPc="268436012"/>
+<entry endPc="268436022" name="state" stackId="1" startPc="268436017"/>
+<entry endPc="268436077" name="dc" stackId="1" startPc="268436064"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="batteryWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="batteryWidgetView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="batteryWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="batteryWidgetView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="batteryWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="batteryWidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="batteryWidgetApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="batteryWidgetApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="batteryWidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="245" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="284" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="315" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="346" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="377" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="416" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="471" parentId="globals" symbolId="batteryWidgetApp" type="class"/>
+<dataEntry offset="542" parentId="globals" symbolId="batteryWidgetView" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

@@ -1,6 +1,6 @@
 using Toybox.Application;
 
-class batteryApp extends Application.AppBase {
+class datafieldgatesApp extends Application.AppBase {
 
     function initialize() {
         AppBase.initialize();
@@ -14,9 +14,9 @@ class batteryApp extends Application.AppBase {
     function onStop(state) {
     }
 
-    // Return the initial view of your application here
+    //! Return the initial view of your application here
     function getInitialView() {
-        return [ new batteryView() ];
+        return [ new datafieldgatesView() ];
     }
 
 }

@@ -1,10 +1,9 @@
-using Toybox.Graphics as Gfx;
-using Toybox.Lang as Lang;
-using Toybox.System as Sys;
 using Toybox.WatchUi as Ui;
+using Toybox.Graphics as Gfx;
+using Toybox.System as Sys;
+using Toybox.Lang as Lang;
 
-
-class batteryView extends Ui.View {
+class batteryWidgetView extends Ui.View {
     hidden enum {
         STR_BATTERY_LABEL = 0,
         STR_BATTERY_CHARGING,
